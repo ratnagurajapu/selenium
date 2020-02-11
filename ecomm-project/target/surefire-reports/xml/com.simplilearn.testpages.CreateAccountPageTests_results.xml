@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Practice Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="66.160">
+  <properties />
+  
+  
+            <testcase name="createAccountTestNoCountry" time="28.722" classname="com.simplilearn.testpages.CreateAccountPageTests" />
+                <testcase name="createAccountTest" time="14.140" classname="com.simplilearn.testpages.CreateAccountPageTests" />
+                <testcase name="createAccountTestInvalidPostalCode" time="23.298" classname="com.simplilearn.testpages.CreateAccountPageTests" />
+      
+</testsuite>

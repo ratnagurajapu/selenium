@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Simplilearn Test Suite" duration-ms="264411" started-at="2020-02-07T12:29:16 PST" finished-at="2020-02-07T12:33:41 PST">
+    <groups>
+    </groups>
+    <test name="Automation Practice Test" duration-ms="264411" started-at="2020-02-07T12:29:16 PST" finished-at="2020-02-07T12:33:41 PST">
+      <class name="com.simplilearn.testpages.HomePageTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="beforeSuite" is-config="true" duration-ms="15528" started-at="2020-02-07T12:29:01 PST" finished-at="2020-02-07T12:29:16 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="fbTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="fbTest" duration-ms="11877" started-at="2020-02-07T12:29:30 PST" finished-at="2020-02-07T12:29:42 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="teardown" is-config="true" duration-ms="9" started-at="2020-02-07T12:29:43 PST" finished-at="2020-02-07T12:29:43 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=fbTest status=SUCCESS method=HomePageTests.fbTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="googleTest" duration-ms="6589" started-at="2020-02-07T12:29:43 PST" finished-at="2020-02-07T12:29:49 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="teardown" is-config="true" duration-ms="2" started-at="2020-02-07T12:29:50 PST" finished-at="2020-02-07T12:29:50 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=googleTest status=SUCCESS method=HomePageTests.googleTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="pinItTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="pinItTest" duration-ms="16636" started-at="2020-02-07T12:29:50 PST" finished-at="2020-02-07T12:30:07 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pinItTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="teardown" is-config="true" duration-ms="2" started-at="2020-02-07T12:30:07 PST" finished-at="2020-02-07T12:30:07 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=pinItTest status=SUCCESS method=HomePageTests.pinItTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="searchByManufacturer()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="searchByManufacturer" duration-ms="16244" started-at="2020-02-07T12:30:07 PST" finished-at="2020-02-07T12:30:24 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByManufacturer -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:30:24 PST" finished-at="2020-02-07T12:30:24 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchByManufacturer status=SUCCESS method=HomePageTests.searchByManufacturer()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="searchTest" duration-ms="2790" started-at="2020-02-07T12:30:24 PST" finished-at="2020-02-07T12:30:27 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:30:27 PST" finished-at="2020-02-07T12:30:27 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=searchTest status=SUCCESS method=HomePageTests.searchTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="signinTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="signinTest" duration-ms="1862" started-at="2020-02-07T12:30:27 PST" finished-at="2020-02-07T12:30:29 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:30:30 PST" finished-at="2020-02-07T12:30:30 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signinTest status=SUCCESS method=HomePageTests.signinTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@22e357dc] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.simplilearn.testpages.HomePageTests -->
+      <class name="com.simplilearn.testpages.WelcomePageTests">
+        <test-method status="PASS" signature="purchaseDiffProducts()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="purchaseDiffProducts" duration-ms="37348" started-at="2020-02-07T12:31:56 PST" finished-at="2020-02-07T12:32:33 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseDiffProducts -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="teardown" is-config="true" duration-ms="2" started-at="2020-02-07T12:32:34 PST" finished-at="2020-02-07T12:32:34 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=purchaseDiffProducts status=SUCCESS method=WelcomePageTests.purchaseDiffProducts()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="purchaseProducts()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="purchaseProducts" duration-ms="26874" started-at="2020-02-07T12:32:34 PST" finished-at="2020-02-07T12:33:01 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseProducts -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="teardown" is-config="true" duration-ms="2" started-at="2020-02-07T12:33:01 PST" finished-at="2020-02-07T12:33:01 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=purchaseProducts status=SUCCESS method=WelcomePageTests.purchaseProducts()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="signOutTest()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="signOutTest" duration-ms="8001" started-at="2020-02-07T12:33:01 PST" finished-at="2020-02-07T12:33:09 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="teardown" is-config="true" duration-ms="0" started-at="2020-02-07T12:33:10 PST" finished-at="2020-02-07T12:33:10 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signOutTest status=SUCCESS method=WelcomePageTests.signOutTest()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="writeReviewTest()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="writeReviewTest" duration-ms="29871" started-at="2020-02-07T12:33:10 PST" finished-at="2020-02-07T12:33:40 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeReviewTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:33:41 PST" finished-at="2020-02-07T12:33:41 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=writeReviewTest status=SUCCESS method=WelcomePageTests.writeReviewTest()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@2dde1bff] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.simplilearn.testpages.WelcomePageTests -->
+      <class name="com.simplilearn.testpages.LoginPageTests">
+        <test-method status="PASS" signature="signInFailureTest()[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6]" name="signInFailureTest" duration-ms="5288" started-at="2020-02-07T12:30:30 PST" finished-at="2020-02-07T12:30:35 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInFailureTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:30:36 PST" finished-at="2020-02-07T12:30:36 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInFailureTest status=SUCCESS method=LoginPageTests.signInFailureTest()[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="signInTest()[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6]" name="signInTest" duration-ms="7743" started-at="2020-02-07T12:30:36 PST" finished-at="2020-02-07T12:30:43 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signInTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:30:44 PST" finished-at="2020-02-07T12:30:44 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signInTest status=SUCCESS method=LoginPageTests.signInTest()[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="signUpTest()[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6]" name="signUpTest" duration-ms="3067" started-at="2020-02-07T12:30:44 PST" finished-at="2020-02-07T12:30:47 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signUpTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:30:48 PST" finished-at="2020-02-07T12:30:48 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=signUpTest status=SUCCESS method=LoginPageTests.signUpTest()[pri:0, instance:com.simplilearn.testpages.LoginPageTests@10163d6] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.simplilearn.testpages.LoginPageTests -->
+      <class name="com.simplilearn.testpages.CreateAccountPageTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="beforeSuite" is-config="true" duration-ms="13703" started-at="2020-02-07T12:29:16 PST" finished-at="2020-02-07T12:29:30 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="createAccountTest()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="createAccountTest" duration-ms="14140" started-at="2020-02-07T12:30:48 PST" finished-at="2020-02-07T12:31:02 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="teardown" is-config="true" duration-ms="4" started-at="2020-02-07T12:31:02 PST" finished-at="2020-02-07T12:31:02 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createAccountTest status=SUCCESS method=CreateAccountPageTests.createAccountTest()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="createAccountTestInvalidPostalCode()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="createAccountTestInvalidPostalCode" duration-ms="23298" started-at="2020-02-07T12:31:02 PST" finished-at="2020-02-07T12:31:26 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTestInvalidPostalCode -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:31:26 PST" finished-at="2020-02-07T12:31:26 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createAccountTestInvalidPostalCode status=SUCCESS method=CreateAccountPageTests.createAccountTestInvalidPostalCode()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="createAccountTestNoCountry()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="createAccountTestNoCountry" duration-ms="28722" started-at="2020-02-07T12:31:26 PST" finished-at="2020-02-07T12:31:55 PST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTestNoCountry -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99]" name="teardown" is-config="true" duration-ms="1" started-at="2020-02-07T12:31:56 PST" finished-at="2020-02-07T12:31:56 PST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=createAccountTestNoCountry status=SUCCESS method=CreateAccountPageTests.createAccountTestNoCountry()[pri:0, instance:com.simplilearn.testpages.CreateAccountPageTests@49912c99] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.simplilearn.testpages.CreateAccountPageTests -->
+    </test> <!-- Automation Practice Test -->
+  </suite> <!-- Simplilearn Test Suite -->
+</testng-results>

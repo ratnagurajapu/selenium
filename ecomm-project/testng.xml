@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Simplilearn Test Suite" >
+	<listeners>
+		<listener class-name="com.simplilearn.pages.MyTestListener" />
+	</listeners>
+  <test name="Automation Practice Test" thread-count="5" >
+  
+    <classes>      
+      <class name="com.simplilearn.testpages.HomePageTests"/>   
+      <class name="com.simplilearn.testpages.LoginPageTests"/>        
+      <class name="com.simplilearn.testpages.CreateAccountPageTests"/>  	
+      <class name="com.simplilearn.testpages.WelcomePageTests"/>   
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

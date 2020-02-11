@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Practice Test"
+           tests="6"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="55.998">
+  <properties />
+  
+  
+            <testcase name="pinItTest" time="16.636" classname="com.simplilearn.testpages.HomePageTests" />
+                <testcase name="signinTest" time="1.862" classname="com.simplilearn.testpages.HomePageTests" />
+                <testcase name="searchByManufacturer" time="16.244" classname="com.simplilearn.testpages.HomePageTests" />
+                <testcase name="googleTest" time="6.589" classname="com.simplilearn.testpages.HomePageTests" />
+                <testcase name="fbTest" time="11.877" classname="com.simplilearn.testpages.HomePageTests" />
+                <testcase name="searchTest" time="2.790" classname="com.simplilearn.testpages.HomePageTests" />
+      
+</testsuite>

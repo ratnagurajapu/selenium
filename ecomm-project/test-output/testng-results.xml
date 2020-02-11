@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Simplilearn Test Suite" duration-ms="43446" started-at="2020-02-05T00:22:51Z" finished-at="2020-02-05T00:23:34Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43446" started-at="2020-02-05T00:22:51Z" finished-at="2020-02-05T00:23:34Z">
+      <class name="com.simplilearn.testpages.HomePageTests">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="beforeSuite" is-config="true" duration-ms="8599" started-at="2020-02-04T16:22:42Z" finished-at="2020-02-04T16:22:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="fbTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="fbTest" duration-ms="6887" started-at="2020-02-04T16:22:51Z" finished-at="2020-02-04T16:22:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fbTest -->
+        <test-method status="PASS" signature="googleTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="googleTest" duration-ms="2576" started-at="2020-02-04T16:22:58Z" finished-at="2020-02-04T16:23:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTest -->
+        <test-method status="PASS" signature="searchByManufacturer()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="searchByManufacturer" duration-ms="3017" started-at="2020-02-04T16:23:00Z" finished-at="2020-02-04T16:23:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchByManufacturer -->
+        <test-method status="PASS" signature="searchTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="searchTest" duration-ms="1337" started-at="2020-02-04T16:23:03Z" finished-at="2020-02-04T16:23:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- searchTest -->
+        <test-method status="PASS" signature="signinTest()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="signinTest" duration-ms="1571" started-at="2020-02-04T16:23:05Z" finished-at="2020-02-04T16:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signinTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.simplilearn.testpages.HomePageTests@548e6d58]" name="afterSuite" is-config="true" duration-ms="1854" started-at="2020-02-04T16:23:34Z" finished-at="2020-02-04T16:23:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.simplilearn.testpages.HomePageTests -->
+      <class name="com.simplilearn.testpages.WelcomePageTests">
+        <test-method status="PASS" signature="purchaseProducts()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@623a8092]" name="purchaseProducts" duration-ms="14234" started-at="2020-02-04T16:23:06Z" finished-at="2020-02-04T16:23:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- purchaseProducts -->
+        <test-method status="PASS" signature="signOutTest()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@623a8092]" name="signOutTest" duration-ms="4200" started-at="2020-02-04T16:23:20Z" finished-at="2020-02-04T16:23:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signOutTest -->
+        <test-method status="PASS" signature="writeReviewTest()[pri:0, instance:com.simplilearn.testpages.WelcomePageTests@623a8092]" name="writeReviewTest" duration-ms="9568" started-at="2020-02-04T16:23:25Z" finished-at="2020-02-04T16:23:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- writeReviewTest -->
+      </class> <!-- com.simplilearn.testpages.WelcomePageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Simplilearn Test Suite -->
+</testng-results>

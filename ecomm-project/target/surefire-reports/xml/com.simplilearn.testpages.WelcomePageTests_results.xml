@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Practice Test"
+           tests="4"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="102.094">
+  <properties />
+  
+  
+            <testcase name="purchaseDiffProducts" time="37.348" classname="com.simplilearn.testpages.WelcomePageTests" />
+                <testcase name="writeReviewTest" time="29.871" classname="com.simplilearn.testpages.WelcomePageTests" />
+                <testcase name="purchaseProducts" time="26.874" classname="com.simplilearn.testpages.WelcomePageTests" />
+                <testcase name="signOutTest" time="8.001" classname="com.simplilearn.testpages.WelcomePageTests" />
+      
+</testsuite>

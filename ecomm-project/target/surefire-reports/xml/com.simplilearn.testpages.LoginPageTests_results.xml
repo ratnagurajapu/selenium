@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Automation Practice Test"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="16.098">
+  <properties />
+  
+  
+            <testcase name="signInTest" time="7.743" classname="com.simplilearn.testpages.LoginPageTests" />
+                <testcase name="signInFailureTest" time="5.288" classname="com.simplilearn.testpages.LoginPageTests" />
+                <testcase name="signUpTest" time="3.067" classname="com.simplilearn.testpages.LoginPageTests" />
+      
+</testsuite>

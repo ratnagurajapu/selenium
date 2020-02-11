@@ -1,0 +1,491 @@
+2020-02-06 16:50:15,296  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-06 16:50:18,520  INFO [main] Base:64 - Navigated to home page
+2020-02-06 16:50:18,574  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:25,304  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-06 16:50:28,207  INFO [main] Base:64 - Navigated to home page
+2020-02-06 16:50:28,208  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:28,398  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:28,401  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:50:28,414  INFO [main] HomePage:120 - Click on any product.. 
+2020-02-06 16:50:31,232  INFO [main] HomePage:192 - Switched to facebook window.. 
+2020-02-06 16:50:32,647  INFO [main] HomePageTests:144 - Test passed fbTest
+2020-02-06 16:50:32,653  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:32,656  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:50:32,656  INFO [main] HomePage:120 - Click on any product.. 
+2020-02-06 16:50:33,366  INFO [main] HomePage:223 - Switched to google window.. 
+2020-02-06 16:50:35,889  INFO [main] HomePageTests:144 - Test passed googleTest
+2020-02-06 16:50:35,897  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:35,900  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:50:35,900  INFO [main] HomePage:120 - Click on any product.. 
+2020-02-06 16:50:36,725  INFO [main] HomePage:143 - Clicked on Pinterest.. 
+2020-02-06 16:50:36,753  INFO [main] HomePage:153 - Switched to pinterest window.. 
+2020-02-06 16:50:44,660  INFO [main] HomePageTests:144 - Test passed pinItTest
+2020-02-06 16:50:44,662  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:44,664  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:50:44,716  INFO [main] HomePage:94 - Searching for text: printed
+2020-02-06 16:50:46,423  INFO [main] HomePage:111 - Searching for manufacturer: Fashion Manufacturer
+2020-02-06 16:50:58,748  INFO [main] HomePageTests:144 - Test passed searchByManufacturer
+2020-02-06 16:50:58,750  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:50:58,752  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:50:58,803  INFO [main] HomePage:94 - Searching for text: printed
+2020-02-06 16:51:00,617  INFO [main] HomePageTests:144 - Test passed searchTest
+2020-02-06 16:51:00,620  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:00,621  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:00,679  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:02,317  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:02,319  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:02,321  INFO [main] HomePageTests:144 - Test passed signinTest
+2020-02-06 16:51:02,328  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:02,329  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:02,427  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:03,761  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:03,762  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:05,369  INFO [main] LoginPage:64 - Sign in with valid email and invalid password
+2020-02-06 16:51:05,479  INFO [main] LoginPageTests:118 - Test passed signInFailureTest
+2020-02-06 16:51:05,482  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:05,484  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:05,552  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:06,911  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:06,912  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:08,777  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-06 16:51:08,786  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:08,788  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-06 16:51:08,874  INFO [main] WelcomePage:121 - Sign Out exists
+2020-02-06 16:51:08,976  INFO [main] WelcomePage:127 - Signing off
+2020-02-06 16:51:11,013  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:11,014  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:11,017  INFO [main] LoginPageTests:118 - Test passed signInTest
+2020-02-06 16:51:11,023  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:11,025  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:11,165  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:12,724  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:12,725  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:13,259  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-06 16:51:13,267  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:13,268  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-06 16:51:13,269  INFO [main] LoginPageTests:118 - Test passed signUpTest
+2020-02-06 16:51:13,271  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:13,272  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:13,336  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:14,975  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:14,975  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:15,541  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-06 16:51:15,542  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:15,543  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-06 16:51:16,612  INFO [main] CreateAccountPage:138 - Setting the gender radio button
+2020-02-06 16:51:17,609  INFO [main] CreateAccountPage:124 - Setting the state dropdown
+2020-02-06 16:51:17,991  INFO [main] CreateAccountPage:93 - In create account: entering values
+2020-02-06 16:51:19,344  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:19,345  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-06 16:51:19,421  INFO [main] WelcomePage:115 - Welcome message is displayed
+2020-02-06 16:51:19,496  INFO [main] WelcomePage:127 - Signing off
+2020-02-06 16:51:21,384  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:21,384  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:21,386  INFO [main] CreateAccountPageTests:161 - Test passed createAccountTest
+2020-02-06 16:51:21,456  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:21,457  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:21,575  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:23,220  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:23,221  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:23,830  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-06 16:51:23,831  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:23,832  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-06 16:51:24,796  INFO [main] CreateAccountPage:138 - Setting the gender radio button
+2020-02-06 16:51:26,039  INFO [main] CreateAccountPage:124 - Setting the state dropdown
+2020-02-06 16:51:26,568  INFO [main] CreateAccountPage:131 - Setting the country dropdown
+2020-02-06 16:51:26,779  INFO [main] CreateAccountPage:111 - In create account: entering values
+2020-02-06 16:51:38,180  INFO [main] CreateAccountPageTests:161 - Test passed createAccountTestInvalidPostalCode
+2020-02-06 16:51:38,210  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:38,211  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:38,257  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:39,976  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:39,980  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:40,621  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-06 16:51:40,622  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:40,624  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-06 16:51:41,805  INFO [main] CreateAccountPage:138 - Setting the gender radio button
+2020-02-06 16:51:42,884  INFO [main] CreateAccountPage:124 - Setting the state dropdown
+2020-02-06 16:51:43,386  INFO [main] CreateAccountPage:131 - Setting the country dropdown
+2020-02-06 16:51:43,828  INFO [main] CreateAccountPage:111 - In create account: entering values
+2020-02-06 16:51:55,435  INFO [main] CreateAccountPageTests:161 - Test passed createAccountTestNoCountry
+2020-02-06 16:51:55,438  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:55,438  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:51:55,498  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:51:57,296  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:57,296  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:51:59,229  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-06 16:51:59,230  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:51:59,232  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-06 16:51:59,294  INFO [main] WelcomePage:136 - Clicked on Dresses
+2020-02-06 16:52:02,728  INFO [main] WelcomePage:140 - Clicked on Summer Dresses
+2020-02-06 16:52:02,730  INFO [main] WelcomePage:240 - Adding to cart..
+2020-02-06 16:52:14,278  INFO [main] WelcomePage:275 - Screenshot taken..
+2020-02-06 16:52:15,839  INFO [main] WelcomePage:286 - Clicked on checkout from cart page
+2020-02-06 16:52:15,846  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:15,847  INFO [main] CheckoutPage:18 - CheckOut Page is initialized
+2020-02-06 16:52:24,118  INFO [main] WelcomePage:127 - Signing off
+2020-02-06 16:52:26,812  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:26,813  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:52:26,814  INFO [main] WelcomePageTests:120 - Test passed purchaseProducts
+2020-02-06 16:52:26,816  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:26,817  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:52:26,928  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:52:28,618  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:28,619  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:52:30,664  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-06 16:52:30,665  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:30,666  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-06 16:52:30,759  INFO [main] WelcomePage:127 - Signing off
+2020-02-06 16:52:32,677  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:32,678  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:52:32,762  INFO [main] LoginPage:70 - Sign In exists
+2020-02-06 16:52:32,813  INFO [main] WelcomePageTests:120 - Test passed signOutTest
+2020-02-06 16:52:32,815  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:32,815  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-06 16:52:32,856  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-06 16:52:34,336  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:34,337  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:52:36,328  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-06 16:52:36,330  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:36,332  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-06 16:52:36,452  INFO [main] WelcomePage:136 - Clicked on Dresses
+2020-02-06 16:52:39,644  INFO [main] WelcomePage:140 - Clicked on Summer Dresses
+2020-02-06 16:52:42,257  INFO [main] WelcomePage:191 - Clicked on Review from product page
+2020-02-06 16:52:42,623  INFO [main] WelcomePage:197 - Entered title and comment
+2020-02-06 16:52:56,541  INFO [main] WelcomePage:127 - Signing off
+2020-02-06 16:52:58,292  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-06 16:52:58,293  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-06 16:52:58,295  INFO [main] WelcomePageTests:120 - Test passed writeReviewTest
+2020-02-07 11:54:21,506  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-07 11:54:26,058  INFO [main] Base:64 - Navigated to home page
+2020-02-07 11:54:26,107  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:54:26,189  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:54:26,192  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 11:54:26,287  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 11:54:28,056  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:54:28,057  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 11:54:30,110  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 11:54:30,122  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:54:30,124  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 11:54:30,188  INFO [main] WelcomePage:139 - Clicked on Dresses
+2020-02-07 11:54:33,690  INFO [main] WelcomePage:143 - Clicked on Summer Dresses
+2020-02-07 11:54:33,691  INFO [main] WelcomePage:256 - Adding to cart..
+2020-02-07 11:54:34,963  INFO [main] WelcomePage:160 - Clicked on Women Menu
+2020-02-07 11:54:38,592  INFO [main] WelcomePage:164 - Clicked on TShirt
+2020-02-07 11:54:38,595  INFO [main] WelcomePage:256 - Adding to cart..
+2020-02-07 11:54:39,093  INFO [main] WelcomePage:170 - Clicked on Women Menu
+2020-02-07 11:54:40,225  INFO [main] WelcomePageTests:131 - Testcase failed
+2020-02-07 11:54:40,226  INFO [main] WelcomePageTests:132 - purchaseDiffProducts
+2020-02-07 11:54:40,227  INFO [main] WelcomePageTests:133 - org.openqa.selenium.StaleElementReferenceException: The element reference of <a class="img" href="http://automationpractice.com/index.php?id_category=7&controller=category"> is stale; either the element is no longer attached to the DOM, it is not in the current frame context, or the document has been refreshed
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/stale_element_reference.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LP-RGURAJA-AUX3', ip: '172.16.65.150', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200117190643, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 72976, moz:profile: C:\Users\rgurajapu\AppData\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 33a72484-a8ac-4bcd-bf03-32d27961c592
+2020-02-07 11:56:23,850  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-07 11:56:26,758  INFO [main] Base:64 - Navigated to home page
+2020-02-07 11:56:26,802  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:56:26,902  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:56:26,906  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 11:56:27,006  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 11:56:28,582  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:56:28,583  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 11:56:30,545  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 11:56:30,554  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:56:30,558  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 11:56:30,632  INFO [main] WelcomePage:139 - Clicked on Dresses
+2020-02-07 11:56:34,010  INFO [main] WelcomePage:143 - Clicked on Summer Dresses
+2020-02-07 11:56:34,011  INFO [main] WelcomePage:256 - Adding to cart..
+2020-02-07 11:56:45,224  INFO [main] WelcomePage:160 - Clicked on Women Menu
+2020-02-07 11:56:48,854  INFO [main] WelcomePage:164 - Clicked on TShirt
+2020-02-07 11:56:48,856  INFO [main] WelcomePage:256 - Adding to cart..
+2020-02-07 11:56:59,405  INFO [main] WelcomePage:170 - Clicked on Women Menu
+2020-02-07 11:56:59,557  INFO [main] WelcomePageTests:132 - Testcase failed
+2020-02-07 11:56:59,557  INFO [main] WelcomePageTests:133 - purchaseDiffProducts
+2020-02-07 11:56:59,558  INFO [main] WelcomePageTests:134 - org.openqa.selenium.ElementClickInterceptedException: Element <a class="img" href="http://automationpractice.com/index.php?id_category=7&controller=category"> is not clickable at point (609,533) because another element <div class="layer_cart_overlay"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LP-RGURAJA-AUX3', ip: '172.16.65.150', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200117190643, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 88272, moz:profile: C:\Users\rgurajapu\AppData\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: a8389f65-7136-4760-bcc8-44a0a04aa5cd
+2020-02-07 11:59:12,972  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-07 11:59:17,662  INFO [main] Base:64 - Navigated to home page
+2020-02-07 11:59:17,709  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:59:17,818  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:59:17,821  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 11:59:17,934  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 11:59:20,981  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:59:20,983  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 11:59:22,988  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 11:59:22,999  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 11:59:23,001  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 11:59:23,109  INFO [main] WelcomePage:139 - Clicked on Dresses
+2020-02-07 11:59:26,750  INFO [main] WelcomePage:143 - Clicked on Summer Dresses
+2020-02-07 11:59:26,750  INFO [main] WelcomePage:257 - Adding to cart..
+2020-02-07 11:59:29,081  INFO [main] WelcomePage:160 - Clicked on Women Menu
+2020-02-07 11:59:32,575  INFO [main] WelcomePage:164 - Clicked on TShirt
+2020-02-07 11:59:32,582  INFO [main] WelcomePage:257 - Adding to cart..
+2020-02-07 11:59:34,266  INFO [main] WelcomePageTests:132 - Testcase failed
+2020-02-07 11:59:34,267  INFO [main] WelcomePageTests:133 - purchaseDiffProducts
+2020-02-07 11:59:34,267  INFO [main] WelcomePageTests:134 - org.openqa.selenium.ElementClickInterceptedException: Element <a class="img" href="http://automationpractice.com/index.php?id_category=7&controller=category"> is not clickable at point (609,533) because another element <div class="layer_cart_overlay"> obscures it
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LP-RGURAJA-AUX3', ip: '172.16.65.150', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200117190643, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 80552, moz:profile: C:\Users\rgurajapu\AppData\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: 405dcaa1-da45-460e-9bb6-6ac1535e14c9
+2020-02-07 12:03:48,916  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-07 12:03:51,875  INFO [main] Base:64 - Navigated to home page
+2020-02-07 12:03:51,918  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:03:52,045  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:03:52,050  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:03:52,206  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:03:53,869  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:03:53,870  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:03:56,031  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:03:56,040  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:03:56,043  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:03:56,117  INFO [main] WelcomePage:140 - Clicked on Dresses
+2020-02-07 12:03:59,750  INFO [main] WelcomePage:144 - Clicked on Summer Dresses
+2020-02-07 12:03:59,750  INFO [main] WelcomePage:258 - Adding to cart..
+2020-02-07 12:04:02,124  INFO [main] WelcomePage:161 - Clicked on Women Menu
+2020-02-07 12:04:05,728  INFO [main] WelcomePage:165 - Clicked on TShirt
+2020-02-07 12:04:05,730  INFO [main] WelcomePage:258 - Adding to cart..
+2020-02-07 12:04:22,253  INFO [main] WelcomePageTests:132 - Testcase failed
+2020-02-07 12:04:22,254  INFO [main] WelcomePageTests:133 - purchaseDiffProducts
+2020-02-07 12:04:22,254  INFO [main] WelcomePageTests:134 - org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of [[FirefoxDriver: firefox on WINDOWS (ed7017ad-24d6-470d-818e-635cb54c6365)] -> xpath: //input[@id='layered_category_7']] (tried for 15 second(s) with 100 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'LP-RGURAJA-AUX3', ip: '172.16.65.150', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_211'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 72.0.2, javascriptEnabled: true, moz:accessibilityChecks: false, moz:buildID: 20200117190643, moz:geckodriverVersion: 0.26.0, moz:headless: false, moz:processID: 60712, moz:profile: C:\Users\rgurajapu\AppData\..., moz:shutdownTimeout: 60000, moz:useNonSpecCompliantPointerOrigin: false, moz:webdriverClick: true, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, platformVersion: 10.0, rotatable: false, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}
+Session ID: ed7017ad-24d6-470d-818e-635cb54c6365
+2020-02-07 12:06:19,942  INFO [main] Base:61 - Firefox Driver is initialized
+2020-02-07 12:06:24,709  INFO [main] Base:64 - Navigated to home page
+2020-02-07 12:06:24,760  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:06:24,877  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:06:24,882  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:06:24,989  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:06:27,243  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:06:27,244  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:06:29,314  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:06:29,329  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:06:29,332  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:06:29,439  INFO [main] WelcomePage:140 - Clicked on Dresses
+2020-02-07 12:06:33,069  INFO [main] WelcomePage:144 - Clicked on Summer Dresses
+2020-02-07 12:06:33,071  INFO [main] WelcomePage:258 - Adding to cart..
+2020-02-07 12:06:35,423  INFO [main] WelcomePage:161 - Clicked on Women Menu
+2020-02-07 12:06:39,016  INFO [main] WelcomePage:165 - Clicked on TShirt
+2020-02-07 12:06:39,018  INFO [main] WelcomePage:258 - Adding to cart..
+2020-02-07 12:06:40,612  INFO [main] WelcomePage:176 - Clicked on Blouse
+2020-02-07 12:06:40,613  INFO [main] WelcomePage:258 - Adding to cart..
+2020-02-07 12:06:44,132  INFO [main] WelcomePage:307 - Clicked on checkout from cart page
+2020-02-07 12:06:44,139  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:06:44,141  INFO [main] CheckoutPage:18 - CheckOut Page is initialized
+2020-02-07 12:06:53,617  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:06:57,380  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:06:57,381  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:06:57,385  INFO [main] WelcomePageTests:138 - Test passed purchaseDiffProducts
+2020-02-07 12:28:59,005  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:29:11,119  INFO [main] Base:55 - Chrome Driver is initialized
+2020-02-07 12:29:16,814  INFO [main] Base:64 - Navigated to home page
+2020-02-07 12:29:16,849  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:29:25,402  INFO [main] Base:55 - Chrome Driver is initialized
+2020-02-07 12:29:30,552  INFO [main] Base:64 - Navigated to home page
+2020-02-07 12:29:30,553  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:29:30,835  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:29:30,838  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:29:30,840  INFO [main] HomePage:120 - Click on any product.. 
+2020-02-07 12:29:37,869  INFO [main] HomePage:192 - Switched to facebook window.. 
+2020-02-07 12:29:43,262  INFO [main] HomePageTests:144 - TEST PASSED fbTest
+2020-02-07 12:29:43,277  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:29:43,282  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:29:43,283  INFO [main] HomePage:120 - Click on any product.. 
+2020-02-07 12:29:44,599  INFO [main] HomePage:223 - Switched to google window.. 
+2020-02-07 12:29:50,565  INFO [main] HomePageTests:144 - TEST PASSED googleTest
+2020-02-07 12:29:50,569  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:29:50,573  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:29:50,573  INFO [main] HomePage:120 - Click on any product.. 
+2020-02-07 12:29:51,752  INFO [main] HomePage:143 - Clicked on Pinterest.. 
+2020-02-07 12:29:51,962  INFO [main] HomePage:153 - Switched to pinterest window.. 
+2020-02-07 12:30:07,785  INFO [main] HomePageTests:144 - TEST PASSED pinItTest
+2020-02-07 12:30:07,789  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:07,792  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:07,894  INFO [main] HomePage:94 - Searching for text: printed
+2020-02-07 12:30:10,883  INFO [main] HomePage:111 - Searching for manufacturer: Fashion Manufacturer
+2020-02-07 12:30:24,557  INFO [main] HomePageTests:144 - TEST PASSED searchByManufacturer
+2020-02-07 12:30:24,561  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:24,566  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:24,676  INFO [main] HomePage:94 - Searching for text: printed
+2020-02-07 12:30:27,955  INFO [main] HomePageTests:144 - TEST PASSED searchTest
+2020-02-07 12:30:27,959  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:27,961  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:28,119  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:30:29,817  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:29,819  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:30:30,369  INFO [main] HomePageTests:144 - TEST PASSED signinTest
+2020-02-07 12:30:30,375  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:30,376  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:30,488  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:30:32,604  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:32,606  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:30:35,442  INFO [main] LoginPage:64 - Sign in with valid email and invalid password
+2020-02-07 12:30:36,230  INFO [main] LoginPageTests:118 - TEST PASSED signInFailureTest
+2020-02-07 12:30:36,233  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:36,234  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:36,449  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:30:38,083  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:38,084  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:30:41,570  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:30:41,585  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:41,586  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:30:41,721  INFO [main] WelcomePage:125 - Sign Out exists
+2020-02-07 12:30:41,944  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:30:43,972  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:43,973  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:30:44,597  INFO [main] LoginPageTests:118 - TEST PASSED signInTest
+2020-02-07 12:30:44,599  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:44,600  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:44,717  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:30:46,385  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:46,386  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:30:47,649  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-07 12:30:47,664  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:47,666  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-07 12:30:48,167  INFO [main] LoginPageTests:118 - TEST PASSED signUpTest
+2020-02-07 12:30:48,169  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:48,170  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:30:48,256  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:30:49,942  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:49,944  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:30:51,197  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-07 12:30:51,198  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:51,199  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-07 12:30:52,568  INFO [main] CreateAccountPage:138 - Setting the gender radio button
+2020-02-07 12:30:57,413  INFO [main] CreateAccountPage:124 - Setting the state dropdown
+2020-02-07 12:30:57,933  INFO [main] CreateAccountPage:93 - In create account: entering values
+2020-02-07 12:30:59,951  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:30:59,953  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:31:00,097  INFO [main] WelcomePage:119 - Welcome message is displayed
+2020-02-07 12:31:00,299  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:31:02,305  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:02,307  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:31:02,977  INFO [main] CreateAccountPageTests:161 - TEST PASSED createAccountTest
+2020-02-07 12:31:03,082  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:03,085  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:31:03,305  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:31:05,739  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:05,741  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:31:06,982  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-07 12:31:06,983  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:06,983  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-07 12:31:08,256  INFO [main] CreateAccountPage:138 - Setting the gender radio button
+2020-02-07 12:31:12,878  INFO [main] CreateAccountPage:124 - Setting the state dropdown
+2020-02-07 12:31:13,535  INFO [main] CreateAccountPage:131 - Setting the country dropdown
+2020-02-07 12:31:13,701  INFO [main] CreateAccountPage:111 - In create account: entering values
+2020-02-07 12:31:26,807  INFO [main] CreateAccountPageTests:161 - TEST PASSED createAccountTestInvalidPostalCode
+2020-02-07 12:31:26,859  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:26,861  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:31:26,948  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:31:28,578  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:28,579  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:31:30,611  INFO [main] LoginPage:47 - In Login Page:signup with email---
+2020-02-07 12:31:30,612  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:30,612  INFO [main] CreateAccountPage:20 - Create Account Page is initialized
+2020-02-07 12:31:31,954  INFO [main] CreateAccountPage:138 - Setting the gender radio button
+2020-02-07 12:31:39,368  INFO [main] CreateAccountPage:124 - Setting the state dropdown
+2020-02-07 12:31:40,914  INFO [main] CreateAccountPage:131 - Setting the country dropdown
+2020-02-07 12:31:41,790  INFO [main] CreateAccountPage:111 - In create account: entering values
+2020-02-07 12:31:56,137  INFO [main] CreateAccountPageTests:161 - TEST PASSED createAccountTestNoCountry
+2020-02-07 12:31:56,141  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:56,142  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:31:56,245  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:31:58,132  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:31:58,141  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:32:02,903  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:32:02,904  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:02,906  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:32:05,504  INFO [main] WelcomePage:140 - Clicked on Dresses
+2020-02-07 12:32:07,768  INFO [main] WelcomePage:144 - Clicked on Summer Dresses
+2020-02-07 12:32:07,769  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 12:32:13,750  INFO [main] WelcomePage:161 - Clicked on Women Menu
+2020-02-07 12:32:15,658  INFO [main] WelcomePage:165 - Clicked on TShirt
+2020-02-07 12:32:15,660  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 12:32:17,964  INFO [main] WelcomePage:173 - Clicked on Blouse
+2020-02-07 12:32:17,965  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 12:32:21,427  INFO [main] WelcomePage:304 - Clicked on checkout from cart page
+2020-02-07 12:32:21,433  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:21,433  INFO [main] CheckoutPage:18 - CheckOut Page is initialized
+2020-02-07 12:32:31,476  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:32:33,487  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:33,488  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:32:34,239  INFO [main] WelcomePageTests:137 - TEST PASSED purchaseDiffProducts
+2020-02-07 12:32:34,243  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:34,245  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:32:34,519  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:32:36,071  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:36,071  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:32:39,175  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:32:39,177  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:39,179  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:32:41,045  INFO [main] WelcomePage:140 - Clicked on Dresses
+2020-02-07 12:32:43,079  INFO [main] WelcomePage:144 - Clicked on Summer Dresses
+2020-02-07 12:32:43,080  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 12:32:48,377  INFO [main] WelcomePage:304 - Clicked on checkout from cart page
+2020-02-07 12:32:48,378  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:32:48,378  INFO [main] CheckoutPage:18 - CheckOut Page is initialized
+2020-02-07 12:32:58,769  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:33:01,113  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:01,115  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:33:01,718  INFO [main] WelcomePageTests:137 - TEST PASSED purchaseProducts
+2020-02-07 12:33:01,720  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:01,722  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:33:02,007  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:33:03,396  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:03,397  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:33:07,413  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:33:07,415  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:07,416  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:33:07,555  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:33:09,462  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:09,464  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:33:09,602  INFO [main] LoginPage:70 - Sign In exists
+2020-02-07 12:33:10,457  INFO [main] WelcomePageTests:137 - TEST PASSED signOutTest
+2020-02-07 12:33:10,459  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:10,460  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 12:33:10,521  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 12:33:11,898  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:11,899  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:33:14,824  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 12:33:14,825  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:14,825  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 12:33:16,738  INFO [main] WelcomePage:140 - Clicked on Dresses
+2020-02-07 12:33:19,526  INFO [main] WelcomePage:144 - Clicked on Summer Dresses
+2020-02-07 12:33:21,772  INFO [main] WelcomePage:206 - Clicked on Review from product page
+2020-02-07 12:33:23,503  INFO [main] WelcomePage:212 - Entered title and comment
+2020-02-07 12:33:37,749  INFO [main] WelcomePage:131 - Signing off
+2020-02-07 12:33:40,325  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 12:33:40,327  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 12:33:41,261  INFO [main] WelcomePageTests:137 - TEST PASSED writeReviewTest
+2020-02-07 14:20:11,068  INFO [main] Base:55 - Chrome Driver is initialized
+2020-02-07 14:20:16,055  INFO [main] Base:64 - Navigated to home page
+2020-02-07 14:20:16,094  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 14:20:16,223  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 14:20:16,225  INFO [main] HomePage:30 - HomePage is initialized
+2020-02-07 14:20:16,514  INFO [main] HomePage:87 - Before clicking on Sign In from home page
+2020-02-07 14:20:18,120  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 14:20:18,122  INFO [main] LoginPage:17 - Login Page is initialized
+2020-02-07 14:20:20,767  INFO [main] LoginPage:56 - Sign in with email and password
+2020-02-07 14:20:20,781  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 14:20:20,784  INFO [main] WelcomePage:27 - BasePage is initialized
+2020-02-07 14:20:22,672  INFO [main] WelcomePage:140 - Clicked on Dresses
+2020-02-07 14:20:24,766  INFO [main] WelcomePage:144 - Clicked on Summer Dresses
+2020-02-07 14:20:24,767  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 14:20:30,213  INFO [main] WelcomePage:161 - Clicked on Women Menu
+2020-02-07 14:20:32,274  INFO [main] WelcomePage:165 - Clicked on TShirt
+2020-02-07 14:20:32,278  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 14:20:34,121  INFO [main] WelcomePage:173 - Clicked on Blouse
+2020-02-07 14:20:34,121  INFO [main] WelcomePage:255 - Adding to cart..
+2020-02-07 14:20:37,396  INFO [main] WelcomePage:304 - Clicked on checkout from cart page
+2020-02-07 14:20:37,404  INFO [main] BasePage:33 - BasePage is initialized
+2020-02-07 14:20:37,405  INFO [main] CheckoutPage:18 - CheckOut Page is initialized
+2020-02-07 14:20:46,130  INFO [main] WelcomePageTests:140 - TEST PASSED purchaseDiffProducts
